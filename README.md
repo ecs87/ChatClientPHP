@@ -1,1 +1,3 @@
 # ChatClientPHP
+
+This was a code challenge project for Ora where they wanted APIs created in (in the Laravel framework) for a chat app. I decided to use pure PHP to create the app vs using the Laravel framework. This proved for interesting response times...
